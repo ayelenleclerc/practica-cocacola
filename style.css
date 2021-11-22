@@ -343,9 +343,6 @@ footer .redes a{
 	filter: grayscale(0)
 }
 
-#send{
-	opacity: 0;
-}
 
 @media(max-width: 767px)
 {
@@ -445,9 +442,6 @@ footer .redes a{
 		height: 50vh;
 	}
 
-	#send{
-		opacity: 0;
-	}
 }
 
 
