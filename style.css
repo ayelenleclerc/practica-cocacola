@@ -343,6 +343,10 @@ footer .redes a{
 	filter: grayscale(0)
 }
 
+#send{
+	display: none;
+}
+
 @media(max-width: 767px)
 {
 	body{
@@ -439,6 +443,10 @@ footer .redes a{
 	#contactenos iframe{
 		position: relative;
 		height: 50vh;
+	}
+
+	#send{
+		display:none;
 	}
 }
 
