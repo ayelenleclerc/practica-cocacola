@@ -344,7 +344,7 @@ footer .redes a{
 }
 
 #send{
-	display: none;
+	opacity: 0;
 }
 
 @media(max-width: 767px)
@@ -446,7 +446,7 @@ footer .redes a{
 	}
 
 	#send{
-		display:none;
+		opacity: 0;
 	}
 }
 
